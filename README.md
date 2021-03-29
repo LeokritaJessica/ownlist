@@ -1,3 +1,4 @@
+!()(images/todolis.png)
 # Create Todolist with React and Pure Css 
 This project can create new task, delete task and strikethrough task if complete.\
 Task in project will store in localstorage with javasript.\
